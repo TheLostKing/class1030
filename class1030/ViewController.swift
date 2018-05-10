@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  class1030
-//
+///Users/zacharycalderone/Google Drive/MAD-107/class1030/class1030/ViewController.swift
 //  Created by Zachary Calderone on 10/30/17.
 //  Copyright © 2017 Black Kobold Games. All rights reserved.
 //
@@ -21,5 +21,6 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet weak var `switch`: UISwitch!
 }
 
